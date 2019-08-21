@@ -1,8 +1,16 @@
+Gearbox
+========================================
+
+Lenght: 15.5 + 26.2 + 21.0 = 62.7
+CC mount: 62.7 - 5 - 5 = 52.7
+
+
+Servolink
+========================================
+
 Steering arm position: 27
 
-
 throttel link position: 40.5-15=25.5
-
 
 servomount <-> arm: 18-20
 
