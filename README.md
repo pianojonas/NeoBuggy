@@ -1,7 +1,6 @@
 The NeoBuggy project
 --------------------
 
-![body](https://www.rc-museet.com/album/albums/userpics/10001/N5.JPG)
 ![chassie](https://www.rc-museet.com/album/albums/userpics/10001/N8.JPG)
 
 A retro 1/8 nitro buggy developed by piano_jonas
