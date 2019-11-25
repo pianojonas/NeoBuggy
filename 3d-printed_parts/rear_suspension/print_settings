@@ -1,4 +1,11 @@
 rear_frames
 ===============================
-infill: 85%
-infill_pattern: rectlinear
+infill = 85%
+infill_pattern = rectlinear
+
+
+trailing_arm + cone
+===============================
+fill_density = 35%
+fill_pattern = honeycomb
+
