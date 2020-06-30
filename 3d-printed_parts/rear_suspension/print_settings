@@ -9,3 +9,7 @@ trailing_arm + cone
 fill_density = 35%
 fill_pattern = honeycomb
 
+
+wheel
+===============================
+fill_density = 80%
